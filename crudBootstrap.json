@@ -1,0 +1,11 @@
+{
+  "pessoas": [
+    {
+      "id": "001",
+      "nome": "Douglas",
+      "idade": 16,
+      "cpf": "104.474.765-05",
+      "email": "Contatosoarez17@gmail.com"
+    }
+  ]
+}
