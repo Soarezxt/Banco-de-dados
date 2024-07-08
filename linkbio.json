@@ -1,0 +1,17 @@
+{
+    "informações": {
+      "name": "PsiquEasy",
+      "icon": "https://png.pngtree.com/png-vector/20230408/ourmid/pngtree-instagram-bule-tick-insta-blue-star-vector-png-image_6695210.png",
+      "bio": "Um sistema para psicopedagogos.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5D_zOhS4MSoT2GYe2nDeE_hH-pE16PKDYg&s"
+    },
+    "links": [
+      { "name": "Facebook", "url": "https://www.facebook.com/psiqueasy", "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" },
+      { "name": "Instagram", "url": "https://www.instagram.com/psiqueasy", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" },
+      { "name": "Blog PsiquEasy", "url": "https://blog.psiqueasy.com.br/"},
+      { "name": "HelpDesk PsiquEasy", "url": "https://helpdesk.psiqueasy.com.br/"},
+      { "name": "Sistema PsiquEasy", "url": "https://psiqueasy.com.br/"},
+      { "name": "PsiquEasy Store", "url": "https://store.psiqueasy.com.br/app/login" }
+    ]
+  }
+  
